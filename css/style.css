@@ -1,0 +1,278 @@
+body
+{
+    padding: 0;
+    margin: 0;
+}
+/* Start Header*/
+.head {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    height: 600px;
+}
+.navbar{
+    height: 60px;
+}
+
+.navbar .container .logo {
+    float: left;
+    padding: 25px;
+    color: white;
+    font-weight: bolder;
+}
+
+.navbar .container span {
+    color: white;
+    font-weight: bolder;
+    font-size: 32px;
+}
+.navbar .container span:hover{
+    color: chocolate;
+}
+.navbar .container ul {
+    float: right;
+}
+.navbar .container li {
+
+    margin: 5px;
+    padding: 5px;
+    float: left;
+    list-style: none;
+    font-size: 22px;
+   
+}
+
+.navbar .container li a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.navbar .container li a:hover{
+    color: chocolate;
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+    padding-top: 70px;
+   
+    font-size: 4.5rem;
+    line-height: 1.2;
+    font-weight: 400;
+}
+h3{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 25px;
+}
+
+.but{
+    text-align: center;
+}
+ button{
+    padding: 10px 30px;
+    margin: 50px;
+    border-radius: 50px;
+    background-color: sandybrown;
+    font-size: 32px;
+    text-align: center;
+
+}
+button:hover{
+    color: white;
+    background-color: rgb(66, 33, 20);
+    cursor: pointer;
+}
+
+/* End Header*/
+
+/*start body*/
+.Why{
+    color: black;
+}
+p{
+    font-style: italic;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    color: gray;
+}
+
+.Well{
+    color: black;
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+hr{
+    color: gray;
+    width: 85%;
+}
+/*End body*/
+
+
+.up{
+    color: black;
+}
+
+.perant{
+    border: 1px solid #c5c5cc ;
+    overflow: hidden;
+    box-shadow: 10px 10px 5px #c5c5cc;
+    background-color: white;
+}
+
+.wd-25{
+    width: 25%;
+    float: left;
+}
+
+.wd-75{
+    width: 75%;
+    float: left;
+}
+.image img{
+   max-width: 100%; 
+}
+
+ .intro{
+    color: black;
+    font-style: normal;
+    margin-left: 10px;
+}
+.Join{
+    margin:0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.New{
+    color: black;
+}
+
+.test{
+    text-align: center;
+    font-size: 32px;
+}
+.pic{
+    text-align: center;
+}
+ .pic img{
+   display: inline-block;
+   border-radius: 50%;
+   box-shadow: 10px 10px 5px #c5c5cc;
+}
+
+.qotaion{
+    text-align: center;
+    line-height: 1.7;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.Anna{
+    color: dimgray;
+}
+
+.mailing{
+    background-color:floralwhite;
+    height: 500px;
+}
+
+
+.list{
+    color: black;
+}
+
+.info{
+    text-align: center;
+}
+input{
+    display: inline-block;
+    padding: 15px;
+    width: 200px;
+    
+}
+
+.count{
+    text-align: center;
+}
+.coun button{
+    display: inline-block;
+}
+
+
+.footer {
+    padding: 0;
+    margin: 0;
+
+}
+
+.navbar1{
+    height: 60px;
+}
+
+
+.navbar .container .logo {
+    float: left;
+    padding: 25px;
+    color: white;
+    font-weight: bolder;
+}
+
+.navbar1 .container span {
+    color: white;
+    font-weight: bolder;
+    font-size: 32px;
+}
+.navbar1 .container span:hover{
+    color: chocolate;
+}
+.navbar1 .container ul {
+  
+    display: inline-block;
+}
+.navbar1 .container li {
+
+    margin: 5px;
+    padding: 5px;
+    float: left;
+    list-style: none;
+    font-size: 22px;
+   
+}
+
+
+.navbar1 .container li a{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar1 .container li a:hover{
+    color: brown;
+}
+
+.nav{
+    text-align: center;
+}
+
+
+.fab
+{
+   text-align: center;
+    color: black;
+    line-height: 25px;
+}
+.icon 
+{
+    display: inline-block;
+    float: right;
+    width: 30px;
+    height:30px;
+    margin: 0 5px ;
+    border-radius: 50%;
+}
+
+footer{
+    text-align: center;
+}
